@@ -1,0 +1,17 @@
+{
+  "id": "CaseSensitive+Immutable/ID=",
+  "subject": "Documento sintetico completo",
+  "parentFolderId": "inbox-id",
+  "receivedDateTime": "2026-10-01T12:00:00Z",
+  "lastModifiedDateTime": "2026-10-01T12:00:00Z",
+  "body": {"contentType": "html", "content": "<html><head><style>hidden</style></head><body><p>Contenuto completo oltre il preview.</p><script>unsafe()</script><blockquote>Citazione conservata.</blockquote></body></html>"},
+  "bodyPreview": "Preview troncato",
+  "from": {"emailAddress": {"address": "sender@example.test", "name": "Mittente sintetico"}},
+  "toRecipients": [{"emailAddress": {"address": "recipient@example.test"}}],
+  "internetMessageId": "<synthetic-thread@example.test>",
+  "internetMessageHeaders": [{"name": "Message-ID", "value": "<synthetic-thread@example.test>"}, {"name": "References", "value": "<root@example.test>"}],
+  "isRead": false,
+  "flag": {"flagStatus": "notFlagged"},
+  "hasAttachments": false,
+  "categories": ["Synthetic"]
+}

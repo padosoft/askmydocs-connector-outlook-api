@@ -8,3 +8,9 @@
 /.phpunit.result.cache
 /coverage/
 .DS_Store
+/.composer-local.json
+/.composer-local.lock
+/.phpstan-cache/
+/tests/Fixtures/oidc-private.pem
+/.composer-matrix.json
+/.composer-matrix.lock
