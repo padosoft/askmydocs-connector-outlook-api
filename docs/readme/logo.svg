@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" width="160" height="120" fill="none" role="img" aria-labelledby="project-logo-title project-logo-desc">
+  <title id="project-logo-title">Marchio AskMyDocs Microsoft Mail</title>
+  <desc id="project-logo-desc">Una busta blu collegata a tre nodi: il contenuto della mailbox entra nel sistema documentale.</desc>
+  <g stroke="#0A8DFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="15" y="31" width="87" height="61" rx="10"/>
+    <path d="m18 39 40 29 41-29"/>
+    <path d="M103 62h19M133 43v38"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#111111" stroke-width="5">
+    <circle cx="134" cy="31" r="11"/>
+    <circle cx="134" cy="62" r="11"/>
+    <circle cx="134" cy="93" r="11"/>
+  </g>
+</svg>
